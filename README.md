@@ -49,7 +49,7 @@ License
 
 Copyright (c) 2011 Rahim Sonawalla ([rsonawalla@gmail.com](mailto:rsonawalla@gmail.com) / [@rahims](http://twitter.com/rahims)).
 
-Twitter library provided by Abraham Williams ([abraham@poseurte.ch](abraham@poseurte.ch) / [@abraham](http://twitter.com/abraham))
+Twitter library provided by Abraham Williams ([abraham@poseurte.ch](mailto:abraham@poseurte.ch) / [@abraham](http://twitter.com/abraham))
 Bit.ly library provided by Tijs Verkoyen ([@tijsverkoyen](http://twitter.com/tijsverkoyen))
 
 Released under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
